@@ -1,0 +1,53 @@
+(*)
+splash*.rix
+
+death.frm (+ .pal)		(640x480)
+helpscrn.frm (+ .pal)	(640x480)
+hr_mainmenu.frm
+mainmenu.frm			(640x480)
+
+(fallout 1)
+seq*.frm	(+ .pal)	séquence de fin (14 fichiers) (640x480)
+twn01-11.frm			plan de ville (12 fichiers) (453x444)
+
+(fallout 2)
+eg_*.frm	(+ .pal)	séquence de fin (24 fichiers) (640x480)
+twn*.frm				plan de ville (16 fichiers) (450x450)
+
+(olympus 2207)
+fn*.frm					séquence de fin (15 fichiers) (640x480)
+
+(nevada)
+eg_*.frm				séquence de fin (27 fichiers) (640x480)
+twn*.frm				plan de ville (16 fichiers) (450x450)
+	
+(sonora)
+end_*.frm				séquence de fin (34 fichiers) (640x480)
+twn*.frm				plan de ville (16 fichiers) (450x450)
+
+(f15_ress)
+end_*.frm				séquence de fin (41 fichiers) (640x480)
+twn*.frm				plan de ville (8+1 fichiers) (450x450)
+tm_tshel.frm			-
+
+
+
+Original		640x480
+x1.6			1024x768
+x2				1280x960
+
+
+------
+fo1in2/mods/InterfaceUpscaled
+------
+
+(*)
+splash.rix --> 1024x768
+death.frm --> 1024x768
+helpscrn.frm (+ .pal) --> 960x720
+(f1)
+seq*.frm --> 1024x768
+twn01-11.frm --> 700x682
+(f2)
+eg_*.frm --> 1024x768
+twn*.frm --> 700x682
